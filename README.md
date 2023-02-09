@@ -6,7 +6,7 @@ const Alban = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Golang", "HTML", "CSS", "SCSS"],
     hobbies: ["dev", "video game"],
-    spokenLanguage: ["French", "English"]
+    spokenLanguage: ["French", "English"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
