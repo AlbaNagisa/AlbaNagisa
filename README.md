@@ -19,7 +19,7 @@ const Alban = {
 };
 ```
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=AlbaNagisa&theme=vue-dark&show_icons=true&hide=stars" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbaNagisa&layout=compact" />
+<p  align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlbaNagisa&theme=vue-dark&show_icons=true&hide=stars" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbaNagisa&layout=compact" />
 </p>
