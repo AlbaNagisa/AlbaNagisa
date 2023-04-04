@@ -4,12 +4,12 @@
 ```js 
 const Alban = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "React", "TypeScript", "Golang", "HTML", "CSS", "SCSS"],
+    code: ["Javascript", "TypeScript", "Golang", "HTML", "CSS", "SCSS"],
     hobbies: ["dev", "video games"],
     spokenLanguage: ["French", "English"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node", "Express", "NextJS"],
         },
         mobileApp: {
             js: ["React Native"]
