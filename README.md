@@ -4,7 +4,7 @@
 ```js 
 const Alban = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Golang", "HTML", "CSS", "SCSS"],
+    code: ["Javascript", "React", "TypeScript", "Golang", "HTML", "CSS", "SCSS"],
     hobbies: ["dev", "video games"],
     spokenLanguage: ["French", "English"],
     technologies: {
