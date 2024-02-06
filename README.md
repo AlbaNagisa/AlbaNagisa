@@ -3,13 +3,15 @@
 
 ```js 
 const Alban = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "TypeScript", "Golang", "HTML", "CSS", "SCSS"],
+    code: ["Javascript", "TypeScript", "PHP", "Golang", "HTML", "CSS", "SCSS"],
     hobbies: ["dev", "video games"],
     spokenLanguage: ["French", "English"],
     technologies: {
         backEnd: {
             js: ["Node", "Express", "NextJS"],
+        },
+        frontEnd: {
+            js: ["React"],
         },
         mobileApp: {
             js: ["React Native"]
