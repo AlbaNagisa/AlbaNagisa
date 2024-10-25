@@ -16,7 +16,7 @@ const Alban = {
         mobileApp: {
             js: ["React Native"]
         },
-     currently: "I'm in my second year of computer science at Lyon Ynov campus"
+     currently: "I'm in my third year of computer science at Lyon Ynov campus"
     }
 };
 ```
